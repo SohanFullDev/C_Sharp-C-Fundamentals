@@ -1,0 +1,15 @@
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net8.0\ConsoleAppTest1.exe
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net8.0\ConsoleAppTest1.deps.json
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net8.0\ConsoleAppTest1.runtimeconfig.json
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net8.0\ConsoleAppTest1.dll
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\bin\Debug\net8.0\ConsoleAppTest1.pdb
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.AssemblyInfoInputs.cache
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.AssemblyInfo.cs
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.csproj.CoreCompileInputs.cache
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.sourcelink.json
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.dll
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\refint\ConsoleAppTest1.dll
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.pdb
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ConsoleAppTest1.genruntimeconfig.cache
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleAppTest1\ConsoleAppTest1\obj\Debug\net8.0\ref\ConsoleAppTest1.dll

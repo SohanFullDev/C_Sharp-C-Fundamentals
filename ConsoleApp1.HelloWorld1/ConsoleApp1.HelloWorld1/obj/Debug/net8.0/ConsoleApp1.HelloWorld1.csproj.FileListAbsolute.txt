@@ -1,0 +1,15 @@
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\bin\Debug\net8.0\ConsoleApp1.HelloWorld1.exe
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\bin\Debug\net8.0\ConsoleApp1.HelloWorld1.deps.json
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\bin\Debug\net8.0\ConsoleApp1.HelloWorld1.runtimeconfig.json
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\bin\Debug\net8.0\ConsoleApp1.HelloWorld1.dll
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\bin\Debug\net8.0\ConsoleApp1.HelloWorld1.pdb
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.AssemblyInfoInputs.cache
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.AssemblyInfo.cs
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.csproj.CoreCompileInputs.cache
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.sourcelink.json
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.dll
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\refint\ConsoleApp1.HelloWorld1.dll
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.pdb
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ConsoleApp1.HelloWorld1.genruntimeconfig.cache
+C:\draft\etc-resources\c_sharp\cs_console_21hrs\C_sharp_fundamentals\ConsoleApp1.HelloWorld1\ConsoleApp1.HelloWorld1\obj\Debug\net8.0\ref\ConsoleApp1.HelloWorld1.dll
